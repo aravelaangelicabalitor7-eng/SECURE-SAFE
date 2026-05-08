@@ -105,5 +105,4 @@ If accepted, the file is securely decrypted on the receiver’s device.
 
 ---
 
-ort
-* Two-factor authentication (2FA)
+
